@@ -1,0 +1,22 @@
+{
+  "author": "psirenny <djtorres0@gmail.com>",
+  "description": "A Derby component library for the unnoficial Github buttons.",
+  "keywords": [
+    "derby",
+    "ui",
+    "github",
+    "buttons",
+    "social"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "derby-ui-github-buttons",
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/psirenny/derby-ui-github-buttons.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.0.0"
+}

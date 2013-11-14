@@ -1,0 +1,4 @@
+<button:>
+  {#if :self.show}
+  <iframe allowtransparency="true" frameborder="0" height="{:self.height}" scrolling="0" src="{:self.fileurl}?user={:self.user}&repo={:self.repo}&type={@type}{#if @count}&count={@count}{/}{#if @size}&size={@size}{/}" width="{@width}"></iframe>
+  {/}
